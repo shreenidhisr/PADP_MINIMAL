@@ -1,0 +1,1 @@
+# <pre> gcc 1a.c -fopenmp && ./a.out </pre>
